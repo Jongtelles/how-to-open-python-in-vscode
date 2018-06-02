@@ -4,6 +4,7 @@ Step 1: Download Visual Studio Code for your machine
 ![step1](https://i.imgur.com/1ioQWbm.png)
 
 Step 2: Open VSCode and Open a Python file (.py)
+Note: Your VSCode will look different than mine because I'm using a Color Theme - don't worry about that for now.
 ![step2](https://i.imgur.com/hz7qM8F.png)
 
 Step 3: Install the recommended extension and reload VSCode
