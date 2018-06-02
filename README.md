@@ -14,5 +14,5 @@ Step 4: Click "Select Python Environment" and select Anaconda Python 3.6
 ![step4](https://i.imgur.com/BHE741z.png)
 ![step4-2](https://i.imgur.com/uMjPvGR.png)
 
-Step 5: Right-click within the VS Code and select "Run Python File In Terminal"
+Step 5: Right-click within the VS Code editor and select "Run Python File In Terminal"
 ![step5](https://i.imgur.com/BG81xYT.png)
